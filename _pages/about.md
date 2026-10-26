@@ -1,3 +1,5 @@
+{% comment %}
+
 ---
 permalink: /
 title: ""
@@ -56,3 +58,66 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+{% endcomment %}
+
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+<span class='anchor' id='about-me'></span>
+
+# About Me
+
+Hi! I'm **Jiarui Zhang (张家瑞)**, an undergraduate student majoring in **Data Science and Big Data Technology** at **Shanxi University**, China.
+
+My research interests lie in **Large Language Models (LLMs)** and **Natural Language Processing (NLP)**, with a particular focus on LLM-based agents, retrieval-augmented generation, agent memory, and reasoning.
+
+I am interested in understanding how LLM-based systems can retrieve and use knowledge more effectively, improve reasoning quality, and solve complex tasks through interaction and collaboration.
+
+# 🔬 Research Interests
+
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+- LLM-based Agents and Agent Memory
+- Retrieval-Augmented Generation (RAG)
+- Reasoning and Training-Free Test-Time Optimization
+
+# 🎓 Education
+
+- **Sep. 2023 – Jun. 2027 (Expected)**  
+  **Shanxi University**, China  
+  B.Eng. in Data Science and Big Data Technology
+
+# 🧪 Research Projects
+
+**Spatial Transcriptomics Prediction from Histopathology**
+
+- Led a research project on predicting spatial gene expression from histopathology images.
+- Worked on model design, implementation, training objectives, sampling strategies, experiments, and ablation studies.
+- Explored generative modeling methods for spatial transcriptomics prediction.
+
+**Retrieval-Augmented Question Answering with LLM Agents**
+
+- Exploring agent-based approaches to retrieval-augmented question answering.
+- Interested in agent collaboration, retrieval and memory mechanisms, and methods for improving answer quality without additional model training.
+
+# 🏆 Honors and Awards
+
+- **2026** — First Prize, Lanqiao Cup Shanxi Provincial Competition, C/C++ A Group.
+- **2025** — Third Prize, Lanqiao Cup National Competition, C/C++ B Group.
+- **2024** — Second Prize, Chinese Mathematics Competitions, Non-Mathematics Category, Shanxi Provincial Division.
+- Third-Class Scholarship, Shanxi University.
+- Merit Student, Shanxi University.
+
+# 📫 Contact
+
+- **Email:** touristlap@gmail.com
+- **GitHub:** [LAPgoing](https://github.com/LAPgoing)
+
